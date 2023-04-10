@@ -1,22 +1,26 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gray&height=300&section=header&text=welcome%20&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Song's%20GitHub%20&descAlignY=51&descAlign=65)
 
-<!--
-**et007693/et007693** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <p>🔴 Language</p>
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-1572B6?style=flat-square&logo=MYSQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pytorch-F80000?style=flat-square&logo=Pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
+</div>
 
-Here are some ideas to get you started:
+ 
+# Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# MysQL
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+# Oracle
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
+# Eclipse
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
+# github
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Welcome%20song's Github&fontSize=90)
 
-<a href="[버튼을 눌렀을 때 이동할 링크](https://sprinkle-interest-908.notion.site/c3e7e664ac454f92b3e92eec35fea039)" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
 
 ![Song's GitHub stats](https://github-readme-stats.vercel.app/api?username=et007693&show_icons=true&theme=radical)
