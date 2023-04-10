@@ -68,9 +68,10 @@
 | D&A <br> project | 
 | 머신러닝 | 백화점 구매 데이터를 통한 고객 나이 예측 | - |
 | 텍스트데이터분석 |
-| 딥러닝 | 
-| AI빅데이터프로젝트<br>캡스톤디자인 | |
+| 딥러닝 |  |  |
+| AI빅데이터프로젝트<br>캡스톤디자인 | PA-SAS Rec(Paralleled Auxiliary Self-Attentive Sequential Recommender system) | https://github.com/et007693/PA_SASRec |
 
+<br>
 
 ## Other
 
