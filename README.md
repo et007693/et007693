@@ -90,8 +90,8 @@
 | 놀다가게 | 2017.04-.10 | 매장관리 |
 | 엔젤리너스 | 2017.10-2018.03 | 음료 제조 및 마감 |
 | 계절밥상 | 2018.06-.12 | 매장 관리 및 마감 |
-	
-  
+	  
+<br>
 
 ![Song's github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=et007693&layout=compact)
 <br>
