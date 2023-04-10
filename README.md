@@ -66,11 +66,11 @@
 ## Project
 | 수업명 | 주제 | 링크 |
 | :------: | :------: | :------: |
-| D&A <br> project | 배경에 존재하는 다른 사람들의 얼굴을 임의로 변환시켜주는 프로젝트 | https://github.com/et007693/Face-chAInge |
+| D&A <br> project | 배경에 존재하는 다른 사람들의 얼굴을 임의로 변환시켜주는 프로젝트 | [링크](https://github.com/et007693/Face-chAInge) |
 | 머신러닝 | 백화점 구매 데이터를 통한 고객 나이 예측 | - |
 | 텍스트데이터분석 | 유튜브 댓글로 본 정부정책 여론 |
-| 딥러닝 | 음성 감정 분석을 통한 우울증 예측 | [링크]https://github.com/et007693/et007693/blob/main/src/%EB%94%A5%EB%9F%AC%EB%8B%9D_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C.pdf |
-| AI빅데이터프로젝트<br>캡스톤디자인 | PA-SAS Rec(Paralleled Auxiliary Self-Attentive Sequential Recommender system) | [링크]https://github.com/et007693/PA_SASRec |
+| 딥러닝 | 음성 감정 분석을 통한 우울증 예측 | [링크](https://github.com/et007693/et007693/blob/main/src/%EB%94%A5%EB%9F%AC%EB%8B%9D_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C.pdf) |
+| AI빅데이터프로젝트<br>캡스톤디자인 | PA-SAS Rec(Paralleled Auxiliary Self-Attentive Sequential Recommender system) | [링크](https://github.com/et007693/PA_SASRec) |
 
 <br>
 
