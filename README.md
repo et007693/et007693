@@ -1,22 +1,22 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gray&height=300&section=header&text=WELCOME%20&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Song's%20GitHub%20&descAlignY=51&descAlign=65)
 
 <div>
-	<h3>Contact</h3>
-	<a href="mailto:thdckdyd123@naver.com">
-		<img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white"/>
-	</a>
+<h3>Contact</h3>
+<a href="mailto:thdckdyd123@naver.com">
+	<img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white"/>
+</a>
 	
-	<a href="mailto:thdckddyd123@gmail.com">
-		<img src="https://img.shields.io/badge/Mail-4285F4?style=flat&logo=Gmail&logoColor=white"/>
-	</a>
+<a href="mailto:thdckddyd123@gmail.com">
+	<img src="https://img.shields.io/badge/Mail-4285F4?style=flat&logo=Gmail&logoColor=white"/>
+</a>
 	  
-	<a href="https://www.instagram.com/songchyy/">
-		<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
-	</a>
+<a href="https://www.instagram.com/songchyy/">
+	<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
+</a>
 	  
-	<a href="https://github.com/et007693">
-		<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white" />
-	</a>
+<a href="https://github.com/et007693">
+	<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white" />
+</a>
 </div>
 
 <div>
