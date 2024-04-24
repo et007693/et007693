@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-1572B6?style=flat-square&logo=MYSQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
-  <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logo=OpenJDK&logoColor=white"/>	
+  <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=white"/>	
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=Microsoft%20Excel&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/Pytorch-F80000?style=flat-square&logo=Pytorch&logoColor=white" />
