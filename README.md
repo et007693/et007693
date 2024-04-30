@@ -2,11 +2,11 @@
 
 <div>
 <h3>Contact</h3>
-<p><a href="mailto:thdckdyd123@naver.com">
+<!-- <p><a href="mailto:thdckdyd123@naver.com">
 	<img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white"/>
-</a></p>
+</a></p> -->
 	
-<p><a href="mailto:thdckddyd123@gmail.com">
+<p><a href="mailto:thdckdyd123@naver.com">
 	<img src="https://img.shields.io/badge/Mail-4285F4?style=flat&logo=Gmail&logoColor=white"/>
 </a></p>
 	  
