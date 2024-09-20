@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Pytorch-F80000?style=flat-square&logo=Pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
   <img src="https://img.shields.io/badge/django-092E20?style=flat-square&amp;logo=django&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/view-2335495e?style=flat-square&logo=vuedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vue-2335495e?style=flat-square&logo=vuedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&amp;logo=bootstrap&amp;logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=CSS3&amp;logoColor=white">
