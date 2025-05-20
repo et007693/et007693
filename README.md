@@ -10,10 +10,6 @@
 	<img src="https://img.shields.io/badge/Mail-4285F4?style=flat&logo=Gmail&logoColor=white"/>
 </a></p>
 	  
-<p><a href="https://www.instagram.com/songchyy/">
-	<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
-</a></p>
-	  
 <p><a href="https://github.com/et007693">
 	<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white" />
 </a></p>
