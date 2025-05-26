@@ -17,12 +17,12 @@
 <div>
   <h3>Skills</h3>
     <!-- Python -->
-	<div>
-  		<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+    <div>
+	<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=FastAPI&amp;logoColor=white">
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&amp;logo=django&amp;logoColor=white">
-		<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
-		<img src="https://img.shields.io/badge/Pytorch-F80000?style=flat-square&logo=Pytorch&logoColor=white" />
+	<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
+	<img src="https://img.shields.io/badge/Pytorch-F80000?style=flat-square&logo=Pytorch&logoColor=white" />
     </div>
     <!-- JAVA -->
     <div>
@@ -39,6 +39,7 @@
     <div>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=CSS3&amp;logoColor=white">
+	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
         <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
     </div>
     <!-- etc -->
