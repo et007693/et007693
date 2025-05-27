@@ -28,6 +28,7 @@
     <div>
         <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-1572B6?style=flat-square&logo=MYSQL&logoColor=white"/>
     </div>
     <!-- JavaScript -->
     <div>
@@ -43,9 +44,6 @@
         <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
     </div>
     <!-- etc -->
-    <div>
-        <img src="https://img.shields.io/badge/SQL-1572B6?style=flat-square&logo=MYSQL&logoColor=white"/>
-    </div>
   <br>
 
 </div>
