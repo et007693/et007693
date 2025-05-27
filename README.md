@@ -45,8 +45,6 @@
     <!-- etc -->
     <div>
         <img src="https://img.shields.io/badge/SQL-1572B6?style=flat-square&logo=MYSQL&logoColor=white"/>
-        <img 
-          src="https://img.shields.io/badge/Excel-217346?style=flat-square&amp;logo=microsoft-excel&amp;logoColor=white"/>
     </div>
   <br>
 
