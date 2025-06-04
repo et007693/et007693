@@ -50,6 +50,16 @@
 
 <br>
 
+<div style="display:flex; gap:30px">
+
+![Song's github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=et007693&layout=compact)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=et007693)](https://solved.ac/et007693/)
+
+</div>
+
+<br>
+
 ## Major
 
 |   기간   |    소속    |   학부   |         전공명         | 졸업구분 |   비고   |
@@ -89,15 +99,5 @@
 |          텍스트데이터분석          |                     유튜브 댓글로 본 정부정책 여론                     |
 |               딥러닝               |                   음성 감정 분석을 통한 우울증 예측                    | [링크](https://github.com/et007693/et007693/blob/main/src/%EB%94%A5%EB%9F%AC%EB%8B%9D_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C.pdf) |
 | AI빅데이터프로젝트<br>캡스톤디자인 |                               PA-SASRec                                |                                          [링크](https://github.com/et007693/PA_SASRec)                                          |
-
-<br>
-
-![Song's GitHub stats](https://github-readme-stats.vercel.app/api?username=et007693&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=et007693)](https://solved.ac/et007693/)
-
-<br>
-<br>
-
-![Song's github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=et007693&layout=compact)
 
 <br>
