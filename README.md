@@ -18,32 +18,43 @@
   <h3>Skills</h3>
     <!-- Python -->
     <div>
-	<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+	    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=FastAPI&amp;logoColor=white">
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&amp;logo=django&amp;logoColor=white">
-	<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
-	<img src="https://img.shields.io/badge/Pytorch-F80000?style=flat-square&logo=Pytorch&logoColor=white" />
+	    <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
+	    <img src="https://img.shields.io/badge/Pytorch-F80000?style=flat-square&logo=Pytorch&logoColor=white" />
     </div>
     <!-- JAVA -->
     <div>
         <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
-	<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+	    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-1572B6?style=flat-square&logo=MYSQL&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-%234ea94b?style=flat-square&logo=mongodb&logoColor=white/">
     </div>
     <!-- JavaScript -->
     <div>
-        <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Javascript-%23323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
         <img src="https://img.shields.io/badge/React-0088CC?style=flat-square&logo=React&logoColor=white"/>
         <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white&round"/>
     </div>
     <!-- HTML -->
     <div>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=CSS3&amp;logoColor=white">
-	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=CSS&amp;logoColor=white">
+	    <!-- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"> -->
         <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
     </div>
+    <!-- deployment -->
+    <div>
+        <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=white">
+        <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white">
+        <img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&amp;logo=jenkins&amp;logoColor=white">
+    </div>
     <!-- etc -->
+    <div> 
+        <img src="https://img.shields.io/badge/electron-191970?style=flat-square&amp;logo=electron&amp;logoColor=white">
+    </div>
+
   <br>
 
 </div>
