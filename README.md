@@ -47,9 +47,9 @@
     </div> -->
     <!-- deployment -->
     <div>
-        <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=white">
-        <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white">
-        <img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&amp;logo=jenkins&amp;logoColor=white">
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=white">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white">
+        <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&amp;logo=jenkins&amp;logoColor=white">
     </div>
     <!-- etc -->
     <div> 
