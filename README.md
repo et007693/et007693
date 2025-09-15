@@ -68,7 +68,7 @@
 
 <br>
 
-## Certification
+## 자격증증
 
 |         자격증명          |       발행기관       |  취득일자  |
 | :-----------------------: | :------------------: | :--------: |
@@ -90,7 +90,7 @@
 | 학습 도우미 서비스 | - | AI, FE | https://github.com/et007693/Miruni | |
 | 도서 커뮤니티 | - | BE, Infra | https://github.com/jjukjeong | |
 | 영화 리뷰 플랫폼 | - | BE, AI, Infra | https://github.com/AutoeverInsideMovie | |
-
+| 중고차 거래 앱 | - | Android | https://github.com/MOCAR-hyundai | |
 
 
 ## 데이터 분석
