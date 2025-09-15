@@ -89,7 +89,7 @@
 | 미션 벌금 통장 | - | AI, FE | https://github.com/et007693/God_life | |
 | 학습 도우미 서비스 | - | AI, FE | https://github.com/et007693/Miruni | |
 | 도서 커뮤니티 | - | BE, Infra | https://github.com/jjukjeong | |
-| 영화 리뷰 플랫폼 | - | BE, Infra | https://github.com/AutoeverInsideMovie | |
+| 영화 리뷰 플랫폼 | - | BE, AI, Infra | https://github.com/AutoeverInsideMovie | |
 
 
 
