@@ -85,12 +85,12 @@
 ## 개발 프로젝트
 |    주제   |   기간    |    역할    |   링크    |   비고   |
 | :-------: | :-------: | :-------:| :-------: | :-------:  |
-| 화재 대피 유도 로봇 관제 시스템 | - | FE | https://github.com/et007693/FRR | |
-| 미션 벌금 통장 | - | AI, FE | https://github.com/et007693/God_life | |
-| 학습 도우미 서비스 | - | AI, FE | https://github.com/et007693/Miruni | |
-| 도서 커뮤니티 | - | BE, Infra | https://github.com/jjukjeong | |
-| 영화 리뷰 플랫폼 | - | BE, AI, Infra | https://github.com/AutoeverInsideMovie | |
-| 중고차 거래 앱 | - | Android | https://github.com/MOCAR-hyundai | |
+| 화재 대피 유도 로봇 관제 시스템 | - | FE | [프라리](https://github.com/et007693/FRR) | |
+| 미션 벌금 통장 | - | AI, FE | [갓생루팅](https://github.com/et007693/God_life) | |
+| 학습 도우미 서비스 | - | AI, FE | [미루니](https://github.com/et007693/Miruni) | |
+| 도서 커뮤니티 | - | BE, Infra | [쭉정이](https://github.com/jjukjeong) | |
+| 영화 리뷰 플랫폼 | - | BE, AI, Infra | [인사이드 무비](https://github.com/AutoeverInsideMovie) | |
+| 중고차 거래 앱 | - | Android | [모카](https://github.com/MOCAR-hyundai) | |
 
 
 ## 데이터 분석
