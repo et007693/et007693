@@ -85,6 +85,7 @@
 ## 개발 프로젝트
 |    주제   |   기간    |    역할    |   링크    |   비고   |
 | :-------: | :-------: | :-------:| :-------: | :-------:  |
+| 부품 관리 ERP 시스템 | 2025.09.29 - 2025.11.12 | BE | [Stockmate](https://github.com/StockMate-Hyundai) | |
 | 중고차 거래 앱 | 2025.09.15 - 2025.09.26 | Android | [모카](https://github.com/MOCAR-hyundai) | |
 | 영화 리뷰 플랫폼 | 2025.07.10 - 2025.07.23 | BE, AI, Infra | [인사이드 무비](https://github.com/AutoeverInsideMovie) | |
 | 도서 커뮤니티 | 2025.06.30. - 2025.07.09 | BE, Infra | [쭉정이](https://github.com/jjukjeong) | |
