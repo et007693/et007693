@@ -103,8 +103,8 @@
 
 |               주관               |                   대회명                    |                           주제                           |        기간        |                            링크                            |                비고                 |
 | :------------------------------: | :-----------------------------------------: | :------------------------------------------------------: | :----------------: | :--------------------------------------------------------: | :---------------------------------: |
-| 미래에셋증권 <br> & Naver Cloud  |     미래에셋증권 <br> 빅데이터페스티벌      | 고객 및 시장데이터를 활용한 <br> 대고객 금융 서비스 제안 | 2023.07.01 - 10.12 |     [KSK](https://github.com/et007693/ksk-miraeasset) <br> [notion](https://sprinkle-interest-908.notion.site/14921a2fca0780fa9b21c299f3e2d414)     | 본선진출 <br> 데이터분석 <br> (9팀) |
-|   [2022 빅콘테스트]<br> Finda    |   데이터 </br> 분석리그 </br> 퓨쳐스부문    |      앱사용성 데이터를 통한 <br> 대출신청 예측분석       | 2022.08.30 - 12.22 | [Import Finda](https://github.com/et007693/BigContest2022) <br> [notion](https://sprinkle-interest-908.notion.site/Finda-14921a2fca0780dfbf99d8b108569f1d)  |                                     |
+| 미래에셋증권 <br> & Naver Cloud  |     미래에셋증권 <br> 빅데이터페스티벌      | 고객 및 시장데이터를 활용한 <br> 대고객 금융 서비스 제안 | 2023.07.01 - 10.12 |     [Github](https://github.com/et007693/ksk-miraeasset) <br> [Notion](https://sprinkle-interest-908.notion.site/14921a2fca0780fa9b21c299f3e2d414)     | 본선진출 <br> 데이터분석 <br> (9팀) |
+|   [2022 빅콘테스트]<br> Finda    |   데이터 </br> 분석리그 </br> 퓨쳐스부문    |      앱사용성 데이터를 통한 <br> 대출신청 예측분석       | 2022.08.30 - 12.22 | [Github](https://github.com/et007693/BigContest2022) <br> [Notion](https://sprinkle-interest-908.notion.site/Finda-14921a2fca0780dfbf99d8b108569f1d)  |                                     |
 
 
 ## 전공 프로젝트
